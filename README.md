@@ -1,6 +1,7 @@
-# README Testing
-Testing markdown in README files.
+# Markdown
+Fun things to with GitHub markdown.
 
+## Render STL files
 ```stl
  solid TEATEST 
 facet normal  0.986544E+00  0.100166E+00  0.129220E+00
