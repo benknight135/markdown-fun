@@ -1,4 +1,4 @@
-# Markdown
+# Markdown Fun
 Fun things to with GitHub markdown.
 
 ## STL 3D Models
